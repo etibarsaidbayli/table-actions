@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskName": "Cable Installation",
+      "taskStatus": 0,
+      "parentId": null
+    },
+    {
+      "id": 2,
+      "taskName": "Cable Tray Installatio",
+      "taskStatus": 0,
+      "parentId": 1
+    },
+    {
+      "id": 3,
+      "taskName": "Tray Installation",
+      "taskStatus": 0,
+      "parentId": 2
+    },
+    {
+      "id": 4,
+      "taskName": "Tray Connection",
+      "taskStatus": 0,
+      "parentId": 2
+    },
+    {
+      "id": 5,
+      "taskName": "Cable Installation",
+      "taskStatus": 0,
+      "parentId": 1
+    },
+    {
+      "id": 6,
+      "taskName": "Gaugeing",
+      "taskStatus": 0,
+      "parentId": null
+    }
+  ]
+}
